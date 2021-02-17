@@ -4,27 +4,27 @@ ORIGINAL AUTHOR: Hitesh Choudhary (learncodeonline.in)
 */
 body {
   background: rgb(66, 66, 66);
-  /*min-height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  position: relative;*/
+  position: relative;
 }
 .red {
   background: #e44236;
-  /*margin-right: 5px;*/
+  margin-right: 5px;
 }
 .cyan {
   background: #25ccf7;
-  /*margin-right: 5px;*/
+  margin-right: 5px;
 }
 .violet {
   background: #8b78e6;
-  /*margin-right: 5px;*/
+  margin-right: 5px;
 }
 .orange {
   background: #ea7773;
-  /*margin-right: 5px;*/
+  margin-right: 5px;
 }
 .pink {
   background: #bb2cd9;
