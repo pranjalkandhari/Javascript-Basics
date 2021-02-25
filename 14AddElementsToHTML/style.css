@@ -1,0 +1,11 @@
+/*
+THIS FILE IS NOTE MADE ME (IT HAS BEEN USED TO LEARN JS). 
+ORIGINAL AUTHOR: Hitesh Choudhary (learncodeonline.in)
+*/
+body {
+  background-color: rgb(66, 66, 66);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}

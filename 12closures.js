@@ -40,4 +40,4 @@ var add = doAddition(4);
 var ans = add(5);
 console.log(ans);
 //Also we can directly use the function wihtout storing it in another variable:
-console.log( doAddition(12)(15) );
+console.log( doAddition(12)(15) ); //curring
